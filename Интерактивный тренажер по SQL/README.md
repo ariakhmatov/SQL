@@ -2,7 +2,7 @@
 ##### Содержание:
 1. Основы реляционной модели и SQL (Часть А-B)
 2. Запросы SQL к связанным таблицам
-4. Базы данных и SQL запросы (Скоро)
+4. Базы данных и SQL запросы
 5. SQL запросы пользователей (Скоро)
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/ariakhmatov/SQL/tree/main/Интерактивный%20тренажер%20по%20SQL/)
@@ -36,3 +36,12 @@ Take a look at the "1. Основы реляционной модели и SQL" 
 </a>
 
 Take a look at the "2. Запросы SQL к связанным таблицам" notebook (2.1-2.5) on the Binder.
+
+<a href="https://nbviewer.org/github/ariakhmatov/SQL/blob/main/Интерактивный%20тренажер%20по%20SQL/3.%20Базы%20данных%20и%20SQL%20запросы-A.ipynb" 
+   target="_blank">
+   <img align="left" 
+      src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
+      width="109" height="20">
+</a>
+
+Take a look at the "3. Базы данных и SQL запросы" notebook (3.1-3.4) on the Binder.
