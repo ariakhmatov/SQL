@@ -8,7 +8,7 @@
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/ariakhmatov/SQL/tree/main/Интерактивный%20тренажер%20по%20SQL/)
 
 
-Для высококачественного и быстрого доступа ноутбука [Nbviewer](https://nbviewer.jupyter.org/).
+For quick access to the notebook (.ipynb) [Nbviewer](https://nbviewer.jupyter.org/).
 
 <a href="https://nbviewer.org/github/ariakhmatov/SQL/blob/main/Интерактивный%20тренажер%20по%20SQL/1.%20Основы%20реляционной%20модели%20и%20SQL-A.ipynb" 
    target="_blank">
