@@ -5,6 +5,8 @@
 4. Базы данных и SQL запросы
 5. SQL запросы пользователей (Скоро)
 
+____
+
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/ariakhmatov/SQL/tree/main/Интерактивный%20тренажер%20по%20SQL/)
 
 
